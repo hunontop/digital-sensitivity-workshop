@@ -1,0 +1,190 @@
+# **AI가 바꿀 지방행정과 전남광주통합특별시의 대응 과제**
+
+전남광주통합특별시(이하 우리 시) 공무원의 눈으로 볼 때, AI는 통합 출범 직후 급증한 행정 통합 부담을 덜고 반복 업무 처리시간을 최대 67\~70%까지 단축할 핵심 수단이지만, 2026년 현재 국내외 공공부문은 빠른 도입 속도에 비해 성과 평가(OECD 회원국 75% 미실시)와 국민 신뢰(영국 대중 신뢰 50% 미만)가 뒤처진 전환기에 놓여 있다1. 2024\~2026년 국내외 사례는 내부 문서·자동화 분야에서 가시적 시간 절감(서울시 월 2,000시간 절감, 민간 자료가 인용한 영국 시범사업 1인당 일평균 26분 절감)을 보여준 반면, 인간의 실질적 검증 없는 자동화는 대규모 배상과 행정 실패(민간 자료가 인용한 호주 로보데트 약 18억 호주달러 합의 등)로 직결된다는 양면성을 드러낸다4.  
+정부 정책 측면에서 2026년 시행된 「인공지능 기본법」(1월)과 「인공지능 및 데이터 기반 행정 활성화에 관한 법률」(8월), 「대한민국 인공지능 행동계획(2026\~2028)」은 우리 시에 단순한 시범 도입을 넘어 '인공지능 및 데이터 기반 행정 책임관' 임명, 행안부 '범정부 AI 공통기반' 우선 이용 노력, 대민 AI 사전 고지 및 고영향 AI 사전검토, AI 기반 결정에 대한 최종 권한·책임의 기관 귀속이라는 명확한 법적 책무를 부여했다7. 향후 3\~5년(2027\~2031년) 사이 지방행정은 에이전틱 AI·피지컬 AI로의 전환과 법령 유예 종료(2027\~2028년)에 따른 투명성·책임성 검증 강화를 맞이하겠으나, 기술 효용의 계량 근거는 아직 약하고 전력·부지 병목 및 정부 20조 원 지원 구상의 교부 방식 미확정 등 제약이 뚜렷하므로, 495개 행정 시스템 통합과 맞물려 세정과 등 대민 권리·의무 업무부터 인간 통제와 데이터 검증을 전제로 단계적 도입에 나서야 한다1.
+
+## **국내외 행정 AI 도입 사례와 성과: 공공 공식 발표를 중심으로**
+
+국제기구 공식 보고서는 공공부문 AI의 잠재력과 함께 체계성·평가·신뢰의 결핍을 일관되게 지적한다2. OECD가 2025년 발표한 「인공지능과 함께하는 거버넌스」는 11개 핵심 정부 기능에 걸친 200개 AI 활용 사례를 분석해 AI가 행정의 생산성·대응성·책임성을 높일 수 있으나 정부 내 노력이 아직 체계적(systemic) 단계에는 이르지 못했다고 진단했다17. 이어 OECD가 2026년 6월 공개한 「디지털 정부 전망 2026」(36개 회원국 및 8개 가입국 대상, 2023\~2024년 데이터 기준)에 따르면, 회원국 92%가 정부 내 AI 전략을 보유하고 69%가 온라인 서비스의 절반 이상을 디지털 신원과 연계했으나, 디지털·AI 투자의 의도한 성과를 평가하는 국가는 25%(75% 미평가)에 그쳤고 전담 디지털 인력 전략을 갖춘 국가도 6개국뿐이었다5. 같은 해 OECD 「공공기관 신뢰 동인 조사 2026」(2025년 설문 기반) 역시 다수 국민이 공공부문 AI 활용에 여전히 회의적이며 공공기관의 데이터 관리 신뢰도와 적정 규제가 수용도를 좌우한다고 분석했다2. 유엔 경제사회처(UN DESA)도 「2024 유엔 전자정부 조사」 AI 부록을 통해 AI가 공공행정의 효과성과 대응성을 높이는 수단임을 강조했고, 유엔 국제전기통신연합(ITU)의 2024년 「AI for Good」 보고서는 53개 유엔 기구가 729개 AI 프로젝트를 추진 중(65% 진행 중)이며 정부 협력 프로젝트가 전년 대비 37% 증가했다고 집계했다20.  
+국내에서는 중앙부처와 선도 지자체 공식 발표를 중심으로 공통 인프라 구축과 내부 반복 업무 시간 단축 성과가 먼저 나타났다4. 행정안전부와 한국지능정보사회진흥원(NIA)은 2024년부터 구축한 재난안전 AI 데이터를 2026년 3월부터 본격 운영하기 시작했고, 2026년 발간한 「AI 정부 서비스 사례집」에 홍수예보·노동법 상담·복지 사각지대 발굴 등 6개 분야 16개 혁신 사례를 담았으며, 2026년 9월 제주에서 연 '제43회 지방정부 인공지능(AI) 우수사례 발표대회'에는 전국 15개 시·도가 참여했다24. 또한 행안부는 중앙·지자체 중복투자를 막기 위해 KDI 경제정책정보시스템 등에 수록된 대로 2025년 11월 25일 4개 중앙부처(행안부·과기정통부·기획예산처·식약처)를 대상으로 '범정부 AI 공통기반'과 '지능형 업무관리 플랫폼' 시범 운영을 개시했다23. 광역지자체 중 서울특별시는 2025년 11월 공식 발표를 통해 AI와 RPA를 결합해 13건의 업무를 자동화함으로써 매달 2,000시간을 절감했고, 생성형 AI를 접목한 5건의 신규 과제에서 최대 67%의 업무시간 단축 효과를 거두었다고 밝혔다4. 행안부 정부포상 공적조서에 수록된 한 도(道) 단위 광역자치단체 후보기관도 자체 개발 AI 2개와 체감형 도민서비스 5개 확산을 통해 업무시간을 최대 70% 단축한 실적을 보고했으며, 부산광역시는 2025년 전국 지자체 최초로 자체 소형언어모델(sLLM)과 검색증강생성(RAG) 기반 '부산형 생성형 AI 행정서비스'를 구축해 2026년 제43회 발표대회에서 행안부 장관상을 수상했다3.  
+학계 연구와 언론·민간 2차 인용 자료는 현장 확산의 이면에 있는 업무량 미검증, 대중 불신, 거버넌스 실패 위험을 보완해 보여준다1. 영국 버밍엄대 등이 2026년 4월 발간한 연구보고서에 따르면, 영국 지방정부는 정규직(FTE) 인력이 2009년 160만 명에서 2025년 90만 명으로 급감하는 동안 성인 돌봄 신규 신청이 2023/24 회계연도에 4% 늘고 아동 시설보호 비용이 31억 파운드로 두 배 가까이 치솟는 압박 속에서 2023년 이후 101건의 AI 활용 사례를 축적했으나, 영국 Nesta의 2025년 조사에서는 대중 절반 미만만이 공공부문의 책임 있는 AI 활용을 신뢰했다1. 미국 22개 주정부 챗봇 도입 기관 공무원을 면담한 2024년 학술지 논문 역시 챗봇이 전체 업무량과 직원 시간 배분을 줄였는지 효과가 미확인(undetermined) 상태이며 이용자 피드백 체계가 부재하다고 보고했다15. 민간 교육·산업 분석 블로그가 해외 정부·연구기관 발표를 재인용해 정리한 자료에 따르면, 영국 정부(GOV.UK, 2025년 6월 발표)의 20,000명 이상 공무원 대상 Microsoft 365 Copilot 시범사업은 자가 보고 기준 1인당 일평균 26분 절감을 기록했고 미국 관리예산처(OMB)는 2025년 4월 각서(M-25-21)로 기관별 최고AI책임자(CAIO) 지정과 고영향 AI 인간 감독을 의무화했으며 스탠퍼드 AI 인덱스 2026 기준 공공 AI 지출은 미국(2024년) 200억 달러 이상, 유럽(영국 주도) 36억 6,000만 달러에 달했으나, 호주 '로보데트'는 인간 검증 없는 복지 환수 자동화로 2021년 약 18억 호주달러 배상 합의를 초래했고 뉴욕시 'MyCity' 챗봇도 권한·감사 통제 미비의 실패 사례로 지목된다6. 국내 언론·정책 발제·민간 자료에서도 2024년 전국 243개 지자체 중 158곳(약 65%)이 최소 1개 이상 AI 서비스를 도입했고(전자신문), 2025년 공공기관 생성형 AI 도입 비중이 전년 34%에서 77%로 급증했으며(보안업체 자료가 국정원 300여 개 기관 조사를 재인용), 행안부 범정부 AI 공통기반 예산은 여수시의회 세미나 발제자료상 2025년 98.6억 원(지능형 업무관리 플랫폼 41.7억 원 별도), 언론 보도상 공공 AX 예산 총 96억 원으로 집계되고 2026년에는 8개 시·도와 46개 시·군·구가 공통기반 이용에 참여했으며(자치뉴스), 세종시도 '세종 SIREN' 등 재난대응 AI로 처리시간을 단축해 행안부 장관상을 받았다7.  
+우리 시는 2026년 7월 1일 출범과 동시에 종전 광주·전남의 495개 행정 시스템을 통합하고 333건의 자치법규와 120건의 행정규칙을 정비하며 27개 시·군·구 체제를 출범시켰는데, 이는 영국 버밍엄대 연구가 지목한 '지방행정 개편을 통한 시스템 통합과 AI 전문인력 규모 확보의 호기'와 정확히 맞닿아 있다1. 이미 광주경제자유구역청·인공지능산업융합사업단 관내에 구축된 국가 AI데이터센터(2020\~2024년 구축, 연산 88.5PF, 저장 107PB, NVIDIA H100 지원)와 장성 AI 데이터센터 협약, 2026년 8월 해남 솔라시도에서 착공한 국가 AI 컴퓨팅센터(2030년까지 80㎿ 확장 목표, 지역 방송 보도에 따르면 권역 내 총 8개 데이터센터 운영·추진 중) 등 전국 최상위권 물리 인프라도 갖추고 있다41. 다만 통합시 첫 2027년도 본예산안은 22조 163억 원(종전 합산 20조 8,040억 원 대비 \+5.8%, \+1조 2,123억 원)으로 편성되었으나 지역 언론 보도(강기정 당시 광주시장 인터뷰 인용)에서 거론된 4년간 20조 원 정부 지원 구상은 특별법에 교부 방식이 확정적으로 담기지 않아 후속 정부 협의가 필요하며, 입법예고된 4실·8본부·27국·3개 청사 균형 배치(정원 54명 확충) 조직 구조 아래에서는 3개 청사와 27개 시·군·구 간 데이터 칸막이를 걷어내는 소프트웨어 통합이 관건이 된다13.
+
+### **국내외 행정 AI 도입 현황 및 정량 성과 비교표**
+
+도입 기관 수·비중과 사례 수를 국제기구, 국내 정부·공공기관 공식, 학계, 언론·민간 2차 인용 순으로 모으면 다음과 같다1.
+
+| 조사 주체 및 기관 | 지표 내용 | 수치 및 규모 | 기준 연도 | 출처 성격 |
+| :---- | :---- | :---- | :---- | :---- |
+| OECD (DGO 2026\) | 정부 내 AI 전략 보유 회원국 비율 | 92% (36개 회원국 기준) | 2023\~2024 | 국제기구 공식5 |
+| OECD (DGO 2026\) | 디지털·AI 투자 성과 미평가 회원국 비율 | 75% (36개 회원국 기준) | 2023\~2024 | 국제기구 공식5 |
+| OECD (DGO 2026\) | 전담 디지털 인력 전략 보유 회원국 수 | 6개국 | 2023\~2024 | 국제기구 공식5 |
+| OECD (2025 보고서) | 핵심 정부 기능 AI 실제 활용 사례 수 | 11개 분야 200건 | 2025 | 국제기구 공식17 |
+| UN ITU (AI for Good) | 유엔 기구 AI 프로젝트 참여 기구 및 건수 | 53개 기구 729건(진행 65%) | 2024 | 국제기구 공식21 |
+| 행정안전부·NIA | AI 정부 서비스 사례집 수록 사례 수 | 6개 분야 16건 | 2026 | 정부·공공기관 공식24 |
+| 행정안전부 | 범정부 AI 공통기반 시범 운영 참여 부처 | 4개 중앙부처 | 2025.11. | 정부·공공기관 공식23 |
+| 행정안전부 | 제43회 지방정부 AI 우수사례 참여 시·도 | 15개 시·도 | 2026.9. | 정부 공식27 |
+| 영국 버밍엄대 연구 | 검토 대상 지방정부 AI 공개 사례 수 | 101건 (2023년 이후 보고) | 2026.4. 발간 | 학계 연구1 |
+| 지방자치 전문언론(자치뉴스) | 범정부 AI 공통기반 이용 참여 지자체 수 | 8개 시·도, 46개 시·군·구 | 2026 | 언론 보도7 |
+| 전국 지자체(전자신문) | 최소 1개 이상 AI 행정서비스 도입 지자체 | 243곳 중 158곳(약 65%) | 2024 | 언론 보도36 |
+| 공공기관(국정원 조사 인용) | 조사 대상 공공기관 생성형 AI 도입 비중 | 34%(2024) → 77%(2025) | 2024\~2025 | 민간업체 2차 인용37 |
+
+예산·재정 및 실패 비용 지표를 국내 재정과 해외 공공 지출·배상 사례로 구분해 모으면 다음과 같다6.
+
+| 기관 및 사업명 | 재정·예산 규모 | 기준 연도 | 비고 및 출처 성격 |
+| :---- | :---- | :---- | :---- |
+| 전남광주통합특별시 첫 통합 본예산안 | 22조 163억 원 | 2027 편성안 | 종전 합산(20조 8,040억 원) 대비 \+5.8%(+1조 2,123억) / 언론 보도48 |
+| 전남광주통합특별시 정부 지원 구상 | 4년간 총 20조 원(연 5조 원 거론) | 2026 논의 | 특별법상 교부 방식 미확정(정치적·정책적 약속 성격) / 지역 언론13 |
+| 행안부 공공 AX 관련 예산 | 96억 원 | 2025 | 범정부 공통기반 구현 등 포함 / 언론 보도(이데일리)35 |
+| 행안부 범정부 AI 공통기반 구축 | 98.6억 원 | 2025 | 여수시의회 정책세션 발제자료 인용(단위사업 구분)22 |
+| 행안부 지능형 업무관리 플랫폼 구축 | 41.7억 원 | 2025 | 현 온나라 시스템 대체 / 여수시의회 정책세션 발제자료 인용22 |
+| 대한민국 정부 전체 AI 투자 예산 | 10조 원(전년 대비 3배) | 2026 | 민간 보안업체 2차 인용37 |
+| 미국 연방정부 공공 AI 지출 | 200억 달러 이상 | 2024 | 보조금·계약 중심 / 민간 블로그가 스탠퍼드 AI 인덱스 2026 재인용6 |
+| 유럽 공공 AI 계약 규모 | 36억 6,000만 달러 | 2024\~2025 | 영국 주도 / 민간 블로그가 스탠퍼드 AI 인덱스 2026 재인용6 |
+| 호주 Robodebt 법원 배상 합의 | 약 18억 호주달러 | 2021 합의 | 무검증 자동화 행정 실패 사례 / 민간 블로그 재인용6 |
+
+참여자·이용자 수와 처리시간 단축·업무 성과 지표를 정리하면 다음과 같으며, 싱가포르 Pair, 영국 Humphrey, 부산형 생성형 AI 행정서비스의 구체적 일일 이용자 수와 세종시 세종 SIREN의 정확한 단축 단위 수치는 본 조사에 포함된 공식 통계에서 확인되지 않았다4.
+
+| 기관 및 서비스 | 참여자·자동화 규모 | 처리시간 단축 및 업무 성과 | 기준 연도 | 측정 방식 및 출처 성격 |
+| :---- | :---- | :---- | :---- | :---- |
+| 서울특별시 (AI+RPA 및 생성형 AI) | 13건 자동화 \+ 생성형 AI 5건 | 월 2,000시간 절감, 신규 과제 최대 67% 단축 | 2025.11. | 서울시 공식 발표4 |
+| 광역자치단체(도) 포상 후보기관 | 자체 개발 AI 2개, 도민서비스 5개 | 업무시간 최대 70% 단축 | 2025 실적 | 행안부 정부포상 공적조서3 |
+| 한국도로공사 (AI 체납차량 적발) | 단속 차량 수 1.6배 증가(충북 연 4→24대) | 월평균 단속액 1.1억→2.2억 원(2배), 충북 2억 원 초과 | 2024 | 언론 보도(도로공사 실적 인용)54 |
+| 미국 22개 주정부 챗봇 도입 기관 | 47개 도입 기관 중 22개 기관 면담 | 전체 업무량·직원 시간 배분 감소 효과 미확인 | 2024 게재 | 2022년 면담 기반 학술지 논문15 |
+| 영국 GOV.UK (Microsoft 365 Copilot) | 공무원 20,000명 이상 참여 | 1인당 일평균 26분 업무시간 절감 | 2025.6. 발표 | 자가 보고 기준 / 민간 블로그 등이 GOV.UK 재인용6 |
+
+## **우리나라 정부의 AI 정책이 지방행정에 맡기는 일**
+
+2026년 1월 22일 시행된 「인공지능 발전과 신뢰 기반 조성 등에 관한 기본법」(약칭 인공지능 기본법)은 지자체에 산업·공공 AI 진흥 시책 수립 의무와 고영향 AI 규제 준수 의무를 동시에 부과한다9. 법 제16조에 따라 국가와 지방자치단체는 기업 및 공공기관의 AI 기술 도입 촉진과 활용 확산을 위한 시책을 수립·시행해야 하며, 과기정통부 장관의 기본계획 수립에 필요한 자료 제출 요청에 응해야 한다55. 법무법인 및 법률 해설 자료에 따르면 이 법은 영리 여부와 무관하게 공공기관에도 적용되므로, 우리 시가 AI를 활용해 대민 서비스를 제공하면 '인공지능이용사업자'이자 '국가기관등'의 책무를 진다8. 이에 따라 우리 시가 생성형 AI나 고영향 AI(에너지·먹는물 공급, 생체인식, 개인 권리·의무 관계 판단, 국가기관등의 의사결정 등)를 이용할 때는 이용자 사전 고지 의무(제31조)와 고영향 AI 사전검토 및 검·인증 제품 우선 고려 의무(제33조 등), 위험관리·결과 설명·이용자 보호·사람의 관리감독·문서 보관 의무(제34조), 기본권 영향평가 노력의무(제35조)를 이행해야 한다8. 다만 실무 해설 자료상 시행 후 최소 1년 이상 과태료(최대 3,000만 원)와 사실조사를 유예하는 방침이 적용되며, 법정 고영향 영역이라도 공무원이 최종 결정을 내리고 실질적으로 통제하면 고영향 AI에서 제외될 수 있어 부서별 업무 절차 설계가 핵심이다56.  
+2026년 8월 28일 개정 시행된 「인공지능 및 데이터 기반 행정 활성화에 관한 법률」(약칭 인공지능데이터행정법, 행안부 소관)은 지방정부의 내부 거버넌스와 플랫폼 이용 기준을 직접 규정한다10. 법 제3조는 국가와 지자체에 시책 수립 및 행정·기술·재정 조치 의무를 부여하는 한편, 신설된 제3조 제5항에서 공공기관이 AI를 정책 수립·의사결정에 활용할 경우 "그 결정에 대한 최종적인 권한과 책임이 해당 공공기관에 있음"을 명확히 하도록 못 박았고, 제3조 제6\~7항에서는 개인정보 보호 우선 고려와 AI·데이터 편향성 및 의사결정 투명성 고려를 의무화했다10. 또한 제19조는 우리 시가 '인공지능 및 데이터 기반 행정 책임관'을 반드시 임명해 행안부 책임관 협의회에 참여하도록 규정했고, 제18조는 데이터 통합관리 플랫폼에 AI 활용 서비스 목록을 연계·공동활용하도록 했으며, 제20조와 제24조는 인공지능데이터분석센터 운영과 전문인력 양성의 근거를 두었다10. 특히 법 제27조는 지방자치단체장에게도 행안부 '범정부 AI 공통기반' 우선 이용 노력 의무를 지웠으며(제32조 등 일부 규정은 2027년 2월 28일 시행, 기존 AI 이용 기관은 2028년 8월 27일까지 유예), 행안부는 2026년 「공공부문 AI 도입·활용 가이드」 배포와 정보시스템 안정성 고시 제정, 데이터기반행정 실태점검 및 재난관리평가 지표 반영을 통해 지자체 이행을 점검하고 있다7.  
+국가인공지능전략위원회가 2026년 2월 발표한 「대한민국 인공지능 행동계획(인공지능 기본계획 2026\~2028)」(총 99개 실행과제·326개 정책권고)은 지방정부에 '공공 AX'·'지역 AX'·'AI 기본사회'의 현장 실행을 맡긴다11. 공공 AX 과제에서는 공무원 AI 활용 지원으로 칸막이 행정을 없애고 AI 기반 통합민원플랫폼을 구축하며 국가정보자원관리원 화재 대응 차원의 복원력 있는 공공시스템 재설계에 동참하도록 요구하고, 지역 AX 과제에서는 K-AI 특화 시범도시 조성과 재생에너지 연계 강소형 AI 데이터센터 분산 구축을 추진하도록 규정한다11. 아울러 AI 기본사회 과제에서는 기존 복지 신청주의를 탈피한 AI 기반 위기가구 발굴 모델과 응급·원격의료 구현, 시도교육청과 연계한 AI 인재 양성 체계 구축에서 지방정부가 실행 주체로 참여하게 된다11.
+
+### **중앙정부 AI 정책별 지방자치단체 핵심 의무 요약**
+
+| 정책·법률명 | 시행·발표 시점 | 지방자치단체에 맡기는 핵심 업무 및 의무 | 비고 및 유예·연계 사항 |
+| :---- | :---- | :---- | :---- |
+| 인공지능 기본법 | 2026.1.22. 시행 | AI 도입·활용 시책 수립(제16조), 이용자 사전 고지(제31조), 고영향 AI 사전검토·검인증 우선 고려(제33조 등), 위험관리·인간 감독(제34조), 기본권 영향평가 노력(제35조)8 | 위반 시 최대 3천만 원 과태료, 해설 자료상 최소 1년 이상 조사·과태료 유예56 |
+| 인공지능데이터행정법 | 2026.8.28. 시행 | 최종 권한·책임 명시(제3조 제5항), 개인정보·편향성·투명성 고려(제3조 제6\~7항), AI·데이터 책임관 임명(제19조), 범정부 AI 공통기반 우선 이용 노력(제27조), 서비스 목록 연계(제18조)7 | 제32조는 2027.2.28. 시행, 기존 AI 이용 기관은 2028.8.27.까지 유예14 |
+| 대한민국 인공지능 행동계획 | 2026.2. 발표 | 공공 AX(칸막이 해소·통합민원), 지역 AX(K-AI 시범도시·재생에너지 연계 데이터센터), AI 기본사회(비신청형 복지·응급의료) 현장 집행11 | 99개 과제·326개 권고, 2026\~2028년 대상11 |
+
+## **앞으로 3\~5년(2027\~2031년)의 전망과 근거 평가**
+
+첫 번째 전망인 '생성형 챗봇에서 에이전틱 AI·피지컬 AI로의 전환'은 OECD(2026년 9\~11월 정책보고서), 한국지능정보사회진흥원(NIA, 「2026년 12대 AI·디지털 트렌드」), 영국 버밍엄대 연구진(2026.4.), 국가인공지능전략위원회(2026.2.)가 공통으로 제시한 방향이다1. NIA는 AI가 개인의 대리인·동반자로 진화할 것이라 전망했고, 영국 연구진은 2026년 업계의 에이전틱 AI 투자 확대를 근거로 더 독립적인 다단계 업무 수행 도구 확산을 내다보았으며, 한국 정부는 2030년 피지컬 AI 1위 달성과 함께 AI 에이전트의 오작동·권한 오남용·정책 우회·개인정보 유출 차단 방안 마련을 핵심 과제로 설정했다1. 그러나 이 전망이 3\~5년 내 지자체의 대규모 인건비·예산 절감으로 이어진다는 근거는 현재 매우 약하다1. 영국 연구진 자체가 데이터센터 과잉투자에 따른 'AI 거품' 붕괴 위험을 경고했고, 미국 주정부 챗봇 실증연구(2024)에서도 전체 업무량 감소 효과가 미확인 상태였으며, OECD 2026년 조사에서도 75%의 회원국이 AI 투자 성과를 평가하지 않아 계량적 비용절감 증거가 부재하기 때문이다1.  
+두 번째 전망인 '국가 컴퓨팅 인프라 확충과 공공 AI 공통 플랫폼의 지자체 전면 확산'은 국가인공지능전략위원회·행정안전부와 우리 시(해남 국가 AI 컴퓨팅센터 착공 발표)가 공식 계획으로 제시한 전망이다11. 정부는 2028년 4분기까지 정부 주도로 첨단 GPU 최소 5만 장 이상을 확보하고, 2026년 3월부터 외부 문서 사본 등에 나타난 네이버클라우드(HCX-GOV-Think)·LG AI연구원 등의 독자 파운데이션 모델을 범정부 AI 공통기반에 공급해 지자체 확산을 추진 중이며, 우리 시도 2030년 80㎿ 확장을 목표로 해남 국가 AI 컴퓨팅센터를 착공했다7. 이 전망의 근거 강도는 '보통(조건부)' 수준이다13. 정부 예산과 실제 착공이라는 실행 근거는 존재하나, 국가AI전략위 자체 점검에서도 다수 과제가 기한초과 또는 긴급 상태로 표시되었고 데이터센터는 신규 전력·부지 확보, 긴 공사 기간, 인허가, 주민 수용성 병목을 넘어야 하며, 우리 시 역시 4년 20조 원 정부 지원의 교부 방식이 미확정이어서 자체 투자 속도가 중앙 재정 협의에 크게 좌우된다13.  
+세 번째 전망인 '행정·인력 압박 지속과 법령 유예 종료(2027\~2028년)에 따른 투명성·책임성 검증 강화'는 영국 버밍엄대 연구진, OECD, 한국행정연구원·한국지방행정연구원 공동세미나 논의, 그리고 기한이 명시된 국내외 법령에서 도출되는 전망이며 세 전망 중 근거가 가장 강하다1. 영국 연구는 지자체 인력 감축(2009년 160만→2025년 90만 명)과 돌봄 비용 폭증이 AI 도입 압력을 지속시킬 것으로 보았고, OECD는 데이터 신뢰도와 투명성 규범이 공공 AI 성패를 가른다고 진단했으며, 한국은 「인공지능 기본법」 과태료 유예(최소 1년) 및 「인공지능데이터행정법」 유예(2027년 2월\~2028년 8월)가 차례로 만료되고 EU AI Act(민간 자료가 인용한 2026년 7월 개정 기준 2027년 12월 2일 적용 예정)까지 맞물려 향후 3\~5년 내 고영향 AI 검증·인간 최종책임·감사 대응이 지자체 행정의 필수 요건으로 자리 잡을 수밖에 없다1. 다만 한국행정연구원·한국지방행정연구원 등 국책연구기관의 2026년 공동세미나에서도 재난안전 AI 활용과 지방행정체제 개편 과제가 논의되었으나 지자체별 정원·재정 절감의 정량 예측 근거는 확인되지 않았고, 국가AI전략위가 진단한 OECD 최하위권 AI 인재 유입률(순유출 지속)은 우리 시가 향후 3\~5년 내 자체 AI 전문인력을 충원하는 데 구조적 제약이 될 전망이다16.
+
+### **향후 3\~5년 주요 전망 및 근거 강도 평가표**
+
+| 전망 영역 | 핵심 내용 | 전망 주체(출처) | 근거 수준 및 한계 평가 |
+| :---- | :---- | :---- | :---- |
+| 기술 패러다임 변화 | 챗봇·문서보조에서 다단계 업무를 수행하는 에이전틱 AI·피지컬 AI로 이행 및 오작동·권한오남용 위험 부각 | OECD(2026), NIA(2025/2026), 영국 버밍엄대(2026.4.), 국가AI전략위(2026.2.)1 | **약함(정량 실증 미약)**: 기술 변화 방향은 일치하나 지자체 비용·업무량 감소 계량 근거가 부재하고 AI 거품론과 투자 성과 미평가(75%) 한계가 큼1 |
+| 인프라·플랫폼 확산 | 2028년 GPU 5만 장 확충, 범정부 AI 공통기반 확산, 2030년 해남 AI 컴퓨팅센터 80㎿ 확장 | 국가AI전략위(2026.2.), 행안부(2025\~2026), 우리 시·참여기업 착공(2026.8.)7 | **보통(조건부)**: 공식 계획과 착공이 확인되나 전력·부지·수용성 병목과 일부 과제 기한초과, 통합시 20조 원 지원방식 미확정 등 불확실성 존재13 |
+| 행정 압박과 규제·신뢰 강화 | 인력·재정 압박 속 2027\~2028년 법령 유예 종료 이후 투명성·인간책임·성과평가 검증 본격화 | 영국 버밍엄대(2026.4.), OECD(2026), 한국 법령(2026 시행), EU AI Act(2026 개정 인용)1 | **강함(다층적 근거)**: 인력·재정 통계, 다국적 신뢰 조사, 유예 종료 시점이 명시된 법령에 근거함(단, AI 인재 순유출 해소는 취약)1 |
+
+## **세정과 업무 연계 AI 사례**
+
+| 전남광주통합특별시 세정과 핵심 업무별 AI·빅데이터 사례 및 유의사항 |
+| :---- |
+| **1\. 자동차세 부과** 행정안전부는 2018\~2019년부터 추진한 차세대 지방세정보시스템에 AI 플랫폼 기반 대화형 상담서비스 및 AI 지방세 개인비서 개념을 설계해 도입을 모색했고, 강화군 등 일부 지자체는 세목 안내와 연계된 홈페이지 AI 챗봇을 운영 중이며, 국세청도 2026년부터 생성형 AI 기반 'AI 세금업무 컨설턴트' 개발에 착수했다69. 그러나 2024년 이후 국내 지자체 세정과가 자동차세 부과·비과세·감면 산정 자체에 AI를 적용해 처리시간 단축이나 오류율 감소 수치를 공개한 독립 실증 사례는 확인되지 않았으며, 2026년 지자체 업무보고에서도 감면 누락 검토·연납 활성화·민원실 원스톱 배치가 핵심 수단으로 보고되고 있다74. 따라서 우리 시는 자동차세 정기 부과(6·12월)와 연납(1·3·6·9월) 안내에 '범정부 AI 공통기반' 기반 상담 보조를 활용할 수 있으나, 전기차·수소차 등 비과세·감면 판단과 최종 부과 결정은 「인공지능데이터행정법」 제3조 제5항에 따라 세정과 공무원이 최종 권한과 책임을 져야 한다7. **2\. 체납차량 번호판 영치** 언론 보도에 인용된 집계에 따르면 전국 체납차량 번호판 영치 건수는 2022년 114,717건에서 2023년 128,555건으로 증가했다가 체납액이 가장 높던 2024년 123,443건으로 5,112건 감소해 인력 단속의 한계를 드러냈고, 종전 광주광역시 역시 자동차세 체납액이 지방세 체납액의 14.9%를 차지한다79. 개선 사례로 충남 서산시는 빅데이터 기반 체납차량 현황지도를 활용한 '스마트 영치'로 한국지방행정연구원 우수사례집에 수록되었으며(고양시도 실시간 차량 위치 기반 단속 모델 제시), 자동차 전문 언론 보도로 전해진 한국도로공사의 AI 통행료 체납차량 적발 시스템은 월평균 단속 금액이 2023년 1억 1,000만 원에서 2024년 2억 2,000만 원으로 2배 늘고 단속 차량 수는 1.6배 증가했으며 충북본부는 연간 적발이 4대에서 24대로 6배 늘어 징수액 2억 원을 넘겼다54. 우리 시가 27개 시·군·구를 아우르는 표적 영치 지도를 도입할 경우, 차량 위치·시간 특정에 따른 「인공지능데이터행정법」 제3조 제6항의 개인정보 보호 우선 고려 의무를 사전 점검하고, AI는 출몰 예측과 번호판 인식 보조에만 쓰며 실제 영치 집행과 생계형 체납차량 배려는 공무원이 최종 결정해야 한다10. **3\. 법인 세무조사** 세무 전문지·세무사 단체 웹진 및 세무 해설 자료에 따르면 국세청은 2023년 법인사업자 정기 세무조사 대상자 선별에 AI·빅데이터 기반 탈세 분석 시스템을 시범 도입해 과거 조사 사례의 기계학습으로 불성실 혐의 법인을 추출하도록 고도화했고, 2025년 8월부터 개인사업자와 비정기 조사 선별까지 AI를 확대했으며, 국세청 공식 자료에서도 AI·빅데이터를 활용한 경비율 산정 연구가 확인된다85. 다만 국세청 사례에서도 AI는 방대한 신고자료에서 이상 징후 후보군을 좁혀 추천하는 필터 역할에 머무르며 최종 조사 착수는 세무공무원이 판단하고, 지자체 세정과의 지방세 법인 세무조사 자체에 AI 선별 모델을 적용해 추징액 증가 수치를 공개한 독립 사례와 국세청 AI 선별의 구체적 추징액 통계는 확인되지 않는다85. 법인 세무조사 대상 선정은 납세자 권리·의무에 중대한 영향을 미치는 행정결정이므로, 향후 통합시 세정과가 지방세심의위원회 선정 과정에 AI 후보 선별을 보조 도입하려면 「인공지능 기본법」의 고영향 AI 해당 여부 사전 검토·선정 근거 설명 방안 및 담당 공무원의 실질적 통제 절차를 반드시 결합해야 한다8. |
+
+## **전남광주통합특별시가 지금 · 3년 안 · 10년 안에 할 일**
+
+| 지금 (출범기 1년 이내, 2026\~2027) | 3년 안 (정착·고도화기, 2027\~2029) | 10년 안 (성숙·자립기, 2030\~2036) |
+| :---- | :---- | :---- |
+| 1\. **법정 책임관 임명 및 3청사 거버넌스 확립**: 「인공지능데이터행정법」 제19조에 따라 '인공지능 및 데이터 기반 행정 책임관'을 즉시 임명하고, 입법예고된 4실·8본부·27국·3개 청사 체계 내 AI 총괄 전담 기능을 명확히 배치한다10. 2\. **495개 시스템 통합과 공통기반 우선 연계**: 종전 광주·전남 495개 행정 시스템 통합과 자치법규 333건·행정규칙 120건 정비 과정에서 AI 연계용 데이터 표준을 적용하고, 법 제27조에 따라 행안부 '범정부 AI 공통기반'을 우선 도입해 자체 중복 구축 비용을 차단한다7. 3\. **고영향·투명성 사전 체크리스트 가동**: 「인공지능 기본법」 과태료 유예기간 동안 세정·복지 등 대민 AI 사업에 사전 고지(제31조), 고영향 AI 사전검토(제33조), 인간 최종승인 원칙(「인공지능데이터행정법」 제3조 제5항)과 행안부 도입 가이드를 전 부서 의무 절차로 적용한다8. 4\. **내부 행정자동화 시범 과제 착수**: 서울(AI+RPA 월 2,000시간 절감)과 부산(sLLM+RAG) 사례를 벤치마킹해 내부 반복 업무 위주로 시범 적용하고, 27개 시·군·구 공무원 대상 생성형 AI 실습 교육을 개시한다4. | 1\. **유예 만료 대비 전수 점검 및 성과평가 의무화**: 2027년 2월\~2028년 8월 법령 유예 종료에 맞춰 시·자치구 전체 AI 서비스 목록을 데이터 통합관리 플랫폼에 등록하고, OECD가 경고한 '성과 미평가(75%)'를 피하기 위해 모든 AI 사업에 처리시간·오류율·시민만족도 사후평가 지표를 의무화한다5. 2\. **'지역 AX·공공 AX' 특화 모델 구축**: 2027년도 통합 예산안(22조 163억 원)과 4년 20조 원 정부 지원 협의 재원을 국가AI전략위 「행동계획」과 연계해, 광주 국가 AI데이터센터(88.5PF) 등을 활용한 비신청형 AI 복지·재난대응·표적 영치 지도 등 27개 시·군·구 공동 활용 서비스를 완성한다11. 3\. **지능형 업무관리 플랫폼 전환 및 칸막이 해소**: 행안부의 온나라 대체 '지능형 업무관리 플랫폼'을 3개 청사와 27개 시·군·구에 전면 안착시켜 부서·청사 간 데이터 공동활용을 일상화하고, 전문인력 양성·배치 정책으로 AI 인재 유출에 대응한다10. | 1\. **권역 AI 컴퓨팅 벨트 기반의 행정·산업 융합 완성**: 2030년 80㎿ 규모로 확장되는 해남 국가 AI 컴퓨팅센터와 광주·장성 등 권역 AI 데이터센터 및 재생에너지 기반을 연계해, 통합시 전역의 에너지·재난·산업·민원 행정을 실시간 지원하는 지속가능한 공공 AI 인프라 생태계를 완성한다11. 2\. **검증된 에이전틱·피지컬 AI의 제한적·책임형 확산**: 실증 검증과 보안 내재화(권한 오남용·개인정보 유출 차단)를 통과한 분야에 한해 다단계 민원·현장 대응 에이전틱 AI와 피지컬 AI를 접목하되, 권리·의무 결정 분야는 인간 최종통제와 기본권 영향평가 환류 구조를 영구 유지한다8. 3\. **전담 디지털 공직 인력 체계 정착**: OECD 소수 선도국(6개국)과 같은 전담 디지털·AI 공직 인력 전략을 정례화해 기술 변화와 지역 인구구조 변화에 대응하는 상시 학습·감사·시민신뢰 거버넌스를 확립한다2. |
+
+#### **참고 자료**
+
+> 1. AI in local government \- Pure, [https\://pure-oai.bham.ac.uk/ws/portalfiles/portal/299476707/AI\_in\_local\_government\_-\_April\_2026.pdf](https://pure-oai.bham.ac.uk/ws/portalfiles/portal/299476707/AI_in_local_government_-_April_2026.pdf)  
+> 2. OECD Survey on Drivers of Trust in Public Institutions 2026 Results, [https\://www\.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2026-results\_9eb63fec-en/full-report/trustworthy-artificial-intelligence-in-the-public-sector\_6f98c91a.html](https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2026-results_9eb63fec-en/full-report/trustworthy-artificial-intelligence-in-the-public-sector_6f98c91a.html)  
+> 3. 2026년 인공지능정부 발전 유공 및 공공데이터 발전 유공 정부포상, [https\://www\.mois.go.kr/cmm/fms/FileDown.do?atchFileId=FILE\_00144491B9e8t0Q\&fileSn=0](https://www.mois.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_00144491B9e8t0Q&fileSn=0)  
+> 4. 정책행사 \| 스마트서울소식, [https\://scpm.seoul.go.kr/smart/policy](https://scpm.seoul.go.kr/smart/policy)  
+> 5. Digital Government Outlook 2026 \- OECD, [https\://www\.oecd.org/en/publications/digital-government-outlook\_0496b2bc-en.html](https://www.oecd.org/en/publications/digital-government-outlook_0496b2bc-en.html)  
+> 6. Artificial intelligence in government: how the public sector uses AI, [https\://founderz.com/blog/artificial-intelligence-government-services/](https://founderz.com/blog/artificial-intelligence-government-services/)  
+> 7. 지자체에 '정부 AI를 우선 쓰라는 법' 시행, 이용료 기준은 시행령에 없다, [https\://www\.jachinews.kr/news/articleView.html?idxno=300](https://www.jachinews.kr/news/articleView.html?idxno=300)  
+> 8. 데이터 · AI\] 인공지능기본법 국회 본회의 가결, 2026년 1월 시행 \- 지평, [https\://www\.jipyong.com/kr/board/news\_view.php?seq=13691](https://www.jipyong.com/kr/board/news_view.php?seq=13691)  
+> 9. 고영향(고위험) 인공지능의 범주와 사업자의 의무 사항 \- 네플라, [https\://www\.nepla.ai/wiki/it-%EC%A0%95%EB%B3%B4-%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89/%EA%B3%A0%EC%98%81%ED%96%A5-%EA%B3%A0%EC%9C%84%ED%97%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%98-%EB%B2%94%EC%A3%BC%EC%99%80-%EC%82%AC%EC%97%85%EC%9E%90%EC%9D%98-%EC%9D%98%EB%AC%B4-%EC%82%AC%ED%95%AD-zr592w7o496k](https://www.nepla.ai/wiki/it-%EC%A0%95%EB%B3%B4-%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89/%EA%B3%A0%EC%98%81%ED%96%A5-%EA%B3%A0%EC%9C%84%ED%97%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%98-%EB%B2%94%EC%A3%BC%EC%99%80-%EC%82%AC%EC%97%85%EC%9E%90%EC%9D%98-%EC%9D%98%EB%AC%B4-%EC%82%AC%ED%95%AD-zr592w7o496k)  
+> 10. 인공지능 및 데이터 기반 행정 활성화에 관한 법률 \- 국가법령정보센터, [https\://www\.law.go.kr/lsInfoP.do?lsiSeq=283735\&viewCls=lsRvsDocInfoR](https://www.law.go.kr/lsInfoP.do?lsiSeq=283735&viewCls=lsRvsDocInfoR)  
+> 11. 대한민국 인공지능행동계획 (인공지능 기본계획(2026\~2028)), [https\://www\.aikorea.go.kr/web/board/fileDownload/1537.do](https://www.aikorea.go.kr/web/board/fileDownload/1537.do)  
+> 12. 전남광주통합특별시 출범 시스템 통합 작업, 필요한 민원 ... \- 행정안전부, [https\://www\.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR\_000000000008\&nttId=126845](https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=126845)  
+> 13. 7월 1일 '전남광주통합특별시' 출범…시민이 알아야 할 법 \- 영산강닷컴, [http\://www\.yeongsangang.com/news/articleView.html?idxno=55000](http://www.yeongsangang.com/news/articleView.html?idxno=55000)  
+> 14. 공공AI법 개정: 공공기관 담당자가 알아야 할 7가지 \- 포너즈, [https\://fornerds.ai/blog/public-ai-act-what-to-do](https://fornerds.ai/blog/public-ai-act-what-to-do)  
+> 15. (PDF) Uncovering the Results of AI Chatbot Use in the Public Sector, [https\://www\.researchgate.net/publication/383083931\_Uncovering\_the\_Results\_of\_AI\_Chatbot\_Use\_in\_the\_Public\_Sector\_Evidence\_from\_US\_State\_Governments](https://www.researchgate.net/publication/383083931_Uncovering_the_Results_of_AI_Chatbot_Use_in_the_Public_Sector_Evidence_from_US_State_Governments)  
+> 16. 대한민국 AI 행동계획 2026 대시보드 (UNOFFICIAL), [https\://www\.aikorea.go.kr/web/board/brdDetail.do?currentPage=1\&menu\_cd=000011\&num=328\&searchData\&searchText](https://www.aikorea.go.kr/web/board/brdDetail.do?currentPage=1&menu_cd=000011&num=328&searchData&searchText)  
+> 17. How artificial intelligence is accelerating the digital government, [https\://www\.oecd.org/en/publications/governing-with-artificial-intelligence\_795de142-en/full-report/how-artificial-intelligence-is-accelerating-the-digital-government-journey\_d9552dc7.html](https://www.oecd.org/en/publications/governing-with-artificial-intelligence_795de142-en/full-report/how-artificial-intelligence-is-accelerating-the-digital-government-journey_d9552dc7.html)  
+> 18. Digital Government Outlook 2026: Norway \- OECD, [https\://www\.oecd.org/en/publications/digital-government-outlook-2026\_d46c0555-en/norway\_066229ca-en.html](https://www.oecd.org/en/publications/digital-government-outlook-2026_d46c0555-en/norway_066229ca-en.html)  
+> 19. A demo is not an evaluation: why government AI needs measuring, [https\://intelloai.com/us/blog/a-demo-is-not-an-evaluation](https://intelloai.com/us/blog/a-demo-is-not-an-evaluation)  
+> 20. E-Government Survey 2024 \- DESA Publications \- the United Nations, [https\://desapublications.un.org/sites/default/files/publications/2024-09/(Web%20version)%20E-Government%20Survey%202024%201392024.pdf](https://desapublications.un.org/sites/default/files/publications/2024-09/\(Web%20version\)%20E-Government%20Survey%202024%201392024.pdf)  
+> 21. United Nations Activities on Artificial Intelligence (AI) \- ITU, [https\://www\.itu.int/dms\_pub/itu-s/opb/gen/S-GEN-UNACT-2024-PDF-E.pdf](https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-UNACT-2024-PDF-E.pdf)  
+> 22. AI 기반 첨단기술 활용 전자 자치단체 구축방안, [https\://local-platform.net/rails/active\_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTA2NTU3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--ef1f63ce68c12eb96ad90f32d3bd3d658e7b2d7c/(250617)%20%EC%97%AC%EC%88%98%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%84%B8%EC%85%98(%EB%B0%9C%EC%A0%9C2\_%EA%B9%80%EC%A4%80%ED%98%95).pdf?disposition=document](https://local-platform.net/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTA2NTU3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--ef1f63ce68c12eb96ad90f32d3bd3d658e7b2d7c/\(250617\)%20%EC%97%AC%EC%88%98%EC%8B%9C%EC%9D%98%ED%9A%8C%EC%84%B8%EC%85%98\(%EB%B0%9C%EC%A0%9C2_%EA%B9%80%EC%A4%80%ED%98%95\).pdf?disposition=document)  
+> 23. 행정안전부 업무보고, [https\://mois.go.kr/cmm/fms/FileDown.do?atchFileId=FILE\_00145899lu3iYSQ\&fileSn=1](https://mois.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_00145899lu3iYSQ&fileSn=1)  
+> 24. 공공부문에서 인공지능(AI) 어떻게 써야해? 「AI 정부 서비스 사례집, [https\://aigov.go.kr/promotion/notice/82](https://aigov.go.kr/promotion/notice/82)  
+> 25. (2026년) AI 정부 서비스 사례집 \| 행정안전부\> 정책자료\> 참고자료, [https\://www\.mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR\_000000000015\&nttId=124688](https://www.mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000015&nttId=124688)  
+> 26. 2027년도 예산안 위원회별 분석 \- 국회예산정책처, [https\://www\.nabo.go.kr/board/file/bulkDown.do?idx=9508\&bid=19](https://www.nabo.go.kr/board/file/bulkDown.do?idx=9508&bid=19)  
+> 27. "반복 행정 줄이고 재난 대응 빨라져"… 지방정부 인공지능(AI) 혁신, [https\://dazabi.com/insurance\_magazine/article.php?id=43948](https://dazabi.com/insurance_magazine/article.php?id=43948)  
+> 28. 지방정부가 직접 만든 AI, 행정은 빨라지고 재난 대응은 10초로 줄었다?, [https\://www\.corenews.kr/news/articleView.html?idxno=808522](https://www.corenews.kr/news/articleView.html?idxno=808522)  
+> 29. 지능형 업무관리 플랫폼(온AI) 모바일 서비스 및 이용기관 확산계획(안), [https\://epts.kdi.re.kr/share?cte\_seq=82905\&dvs=them](https://epts.kdi.re.kr/share?cte_seq=82905&dvs=them)  
+> 30. 부산시, 전국 최초 '생성형 인공지능(AI) 행정서비스' 개시, [https\://www\.busan.go.kr/comm/getFile?srvcId=BBSTY3\&upperNo=1712030\&fileTy=ATTACH\&fileNo=1](https://www.busan.go.kr/comm/getFile?srvcId=BBSTY3&upperNo=1712030&fileTy=ATTACH&fileNo=1)  
+> 31. 2026년도 주요업무계획 \- : 부산광역시, [https\://www\.busan.go.kr/comm/getFile?srvcId=BBSTY1\&upperNo=1725881\&fileTy=ATTACH\&fileNo=1](https://www.busan.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=1725881&fileTy=ATTACH&fileNo=1)  
+> 32. 부산시, 지방정부 AI 우수사례 발표대회서 행안부 장관상 \- 연합뉴스, [https\://www\.yna.co.kr/view/AKR20260913007300051](https://www.yna.co.kr/view/AKR20260913007300051)  
+> 33. AI for City Hall: Governed AI Agents for Local Government \- Colrows, [https\://colrows.com/blogs/ai-for-city-hall/](https://colrows.com/blogs/ai-for-city-hall/)  
+> 34. All case studies, page 9 \- Lumiary, [https\://lumiary.ai/cases/page/9](https://lumiary.ai/cases/page/9)  
+> 35. AI 키울 텃밭인데…클라우드 예산 증액 필요 \- 이데일리, [https\://www\.edaily.co.kr/News/Read?newsId=04293526642300776\&mediaCodeNo=257](https://www.edaily.co.kr/News/Read?newsId=04293526642300776&mediaCodeNo=257)  
+> 36. \[ET시론\]지자체 행정에 AI를 입히다…'AI+사람=혁신' \- 전자신문, [https\://m.etnews.com/20250612000081?obj=Tzo4OiJzdGRDbGFzcyI6Mjp7czo3OiJyZWZlcmVyIjtOO3M6NzoiZm9yd2FyZCI7czoxMzoid2ViIHRvIG1vYmlsZSI7fQ%3D%3D](https://m.etnews.com/20250612000081?obj=Tzo4OiJzdGRDbGFzcyI6Mjp7czo3OiJyZWZlcmVyIjtOO3M6NzoiZm9yd2FyZCI7czoxMzoid2ViIHRvIG1vYmlsZSI7fQ%3D%3D)  
+> 37. 공공 AX, 우리 기관은 어디부터 시작할까요? \- LLM Capsule, [https\://llmcapsule.ai/ko/n2sf-model-2/](https://llmcapsule.ai/ko/n2sf-model-2/)  
+> 38. 세종시-세계은행, AI·디지털 분야로 협력 확대 \- 미디어 붓 mediaboot, [https\://www\.mediaboot.co.kr/news/articleView.html?idxno=85481](https://www.mediaboot.co.kr/news/articleView.html?idxno=85481)  
+> 39. 제1대 2회 \[임시회\] 1차 기획재정위원회, [https\://assem.jeonnam-gwangju.go.kr/assem/viewer.do?minId=150](https://assem.jeonnam-gwangju.go.kr/assem/viewer.do?minId=150)  
+> 40. 전남광주통합특별시 27개 시·군·구, '상생과 자치분권' 첫발 \- 오마이뉴스, [https\://www\.ohmynews.com/NWS\_Web/View/at\_pg.aspx?CNTN\_CD=A0003268645](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268645)  
+> 41. 소개 및 현황 \- 전남광주경제자유구역청, [https\://www\.jgfez.go.kr/contentsView.do?pageId=www26](https://www.jgfez.go.kr/contentsView.do?pageId=www26)  
+> 42. 전남광주통합특별시·장성군, “AI 데이터센터 구축 사업 본격” 추진, [https\://www\.mdns.co.kr/news/articleView.html?idxno=38439](https://www.mdns.co.kr/news/articleView.html?idxno=38439)  
+> 43. Eight data centers to be concentrated in Gwangju and ... \- YouTube, [https\://www\.youtube.com/watch?v=ZEg2DyQ97NA](https://www.youtube.com/watch?v=ZEg2DyQ97NA)  
+> 44. 전남광주특별시, 국가 인공지능컴퓨팅센터 착공…2028년 40㎿ 구축, [https\://www\.hankyung.com/article/202608032261h](https://www.hankyung.com/article/202608032261h)  
+> 45. AI 데이터센터 서비스 \- 컴퓨팅자원 \- 인공지능산업융합사업단, [https\://www\.aica-gj.kr/sub.php?PID=0307](https://www.aica-gj.kr/sub.php?PID=0307)  
+> 46. 출범 50일만에 등장 전남광주시 조직개편안, 핵심은 '기능 분산', [https\://www\.yna.co.kr/view/AKR20260822022400054](https://www.yna.co.kr/view/AKR20260822022400054)  
+> 47. 전남광주통합특별시, 하반기 조직개편안 입법예고… 첨단전략산업, [https\://www\.mokpotimes.com/news/articleView.html?idxno=173565](https://www.mokpotimes.com/news/articleView.html?idxno=173565)  
+> 48. 전남광주 통합 첫 예산안 22조 편성…전년보다 5.8% 증가 \- 한겨레, [https\://www\.hani.co.kr/arti/area/honam/1286818.html](https://www.hani.co.kr/arti/area/honam/1286818.html)  
+> 49. 전남광주통합특별시, 내년 첫 통합예산 22조 원 편성 \[목포MBC 뉴스, [https\://www\.youtube.com/watch?v=62rw7JtM2qU](https://www.youtube.com/watch?v=62rw7JtM2qU)  
+> 50. 솔트룩스-유즈케이스, [https\://saltlux.com/ko/board/usecase-list?category=PUBLIC](https://saltlux.com/ko/board/usecase-list?category=PUBLIC)  
+> 51. 전남광주시, 통합 후 첫 예산 22조 편성…올해보다 5.8% 증가 \- 연합뉴스, [https\://www\.yna.co.kr/view/AKR20261111129200054](https://www.yna.co.kr/view/AKR20261111129200054)  
+> 52. Untitled \- ResearchGate, [https\://www\.researchgate.net/profile/Nafiul-Rafi/publication/413541603\_Global\_AI\_Policy\_Review\_2026\_Atlas\_AI\_Institute/links/6a8aeedd2cf67a11560ceb56/Global-AI-Policy-Review-2026-Atlas-AI-Institute.pdf?origin=scientificContributions](https://www.researchgate.net/profile/Nafiul-Rafi/publication/413541603_Global_AI_Policy_Review_2026_Atlas_AI_Institute/links/6a8aeedd2cf67a11560ceb56/Global-AI-Policy-Review-2026-Atlas-AI-Institute.pdf?origin=scientificContributions)  
+> 53. 박성재 2심 징역 9년…1심 25년서 16년 대폭 감형, [https\://www\.soodoilbo.com/pdf/php/check.php?category=e\&y=2026\&m=10\&d=23\&page=0\&hosu=4087](https://www.soodoilbo.com/pdf/php/check.php?category=e&y=2026&m=10&d=23&page=0&hosu=4087)  
+> 54. 고속도로 통행료 체납 차량, AI 경로 예측 단속으로 하루 ... \- 토픽트리, [https\://topictree.co.kr/automobiles/news/korea-expressway-ai-toll-evasion-detection-system/](https://topictree.co.kr/automobiles/news/korea-expressway-ai-toll-evasion-detection-system/)  
+> 55. 인공지능 발전과 신뢰 기반 조성 등에 관한 기본법 \> 법령 \> 본문, [https\://www\.law.go.kr/lsInfoP.do?lsiSeq=268543\&efYd=20260122\&ancYnChk=0](https://www.law.go.kr/lsInfoP.do?lsiSeq=268543&efYd=20260122&ancYnChk=0)  
+> 56. 인공지능기본법 한눈에 \- AI ROASTING, [https\://airoasting.com/ai-basic-law.html](https://airoasting.com/ai-basic-law.html)  
+> 57. 보도자료 :: 사)한국인공지능기술산업협회(KAITIA), [http\://www\.kaitia.com/board/index.html?id=news1\&PHPSESSID=7704fa7cbb4525163aeb252716d10a9b\&page=1\&no=16](http://www.kaitia.com/board/index.html?id=news1&PHPSESSID=7704fa7cbb4525163aeb252716d10a9b&page=1&no=16)  
+> 58. 인공지능기본법 시행령 입법예고안에 대한 시민사회 의견서, [https\://idr.jinbo.net/wordpress/wp-content/uploads/2025/12/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%B2%95-%EC%8B%9C%ED%96%89%EB%A0%B9-%EC%9E%85%EB%B2%95%EC%98%88%EA%B3%A0%EC%95%88%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%98%EA%B2%AC%EC%84%9C.pdf](https://idr.jinbo.net/wordpress/wp-content/uploads/2025/12/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%B2%95-%EC%8B%9C%ED%96%89%EB%A0%B9-%EC%9E%85%EB%B2%95%EC%98%88%EA%B3%A0%EC%95%88%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%98%EA%B2%AC%EC%84%9C.pdf)  
+> 59. 인공지능기본법 제1조(목적), [https\://ai.wiseuser.go.kr/uploads/information/%EA%B3%A0%EC%98%81%ED%96%A5\_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5\_%ED%8C%90%EB%8B%A8\_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8.pdf](https://ai.wiseuser.go.kr/uploads/information/%EA%B3%A0%EC%98%81%ED%96%A5_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%ED%8C%90%EB%8B%A8_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8.pdf)  
+> 60. 데이터기반행정법 개정, 인공지능데이터행정법으로 바뀐 내용과 공공, [https\://www\.uniondata.co.kr/ai-data-administration-act/](https://www.uniondata.co.kr/ai-data-administration-act/)  
+> 61. 공공 AI 구축, 더 쉽고 빠르게 「공공부문 AI 도입· 활용 가이드」 배포, [https\://www\.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR\_000000000008\&nttId=126757\&ref=blog-ko.superb-ai.com](https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=126757&ref=blog-ko.superb-ai.com)  
+> 62. 9.9조원 99개 246개 2028년 \- 한국인공지능정부협회, [https\://www\.kaiga.or.kr/twcenter/bbs/down.php?code=newsletter\&idx=292\&no=2](https://www.kaiga.or.kr/twcenter/bbs/down.php?code=newsletter&idx=292&no=2)  
+> 63. 경기도형 기본사회 실현을 위한 재난・안전관리체계 개선 방안, [https\://gnews.gg.go.kr/OP\_UPDATA/UP\_DATA/\_FILEZ/202610/20261021050109563446806.pdf](https://gnews.gg.go.kr/OP_UPDATA/UP_DATA/_FILEZ/202610/20261021050109563446806.pdf)  
+> 64. Artificial intelligence \- OECD, [https\://www\.oecd.org/en/topics/artificial-intelligence.html](https://www.oecd.org/en/topics/artificial-intelligence.html)  
+> 65. 인천 도시정책의 미래 비전 : 문화·관광, [https\://www\.ii.re.kr/base/linked/report/preview?boardNo=19374\&projcd=1026GH0003\&seq=3\&div=A1\&atchSeq=1](https://www.ii.re.kr/base/linked/report/preview?boardNo=19374&projcd=1026GH0003&seq=3&div=A1&atchSeq=1)  
+> 66. 260529 공공부문 AI 도입 활용 가이드 \| PDF \- Scribd, [https\://www\.scribd.com/document/1064803962/260529-%EA%B3%B5%EA%B3%B5%EB%B6%80%EB%AC%B8-AI-%EB%8F%84%EC%9E%85-%ED%99%9C%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C](https://www.scribd.com/document/1064803962/260529-%EA%B3%B5%EA%B3%B5%EB%B6%80%EB%AC%B8-AI-%EB%8F%84%EC%9E%85-%ED%99%9C%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)  
+> 67. 韓ㆍ日 지방정부, 재난대응ㆍ인구감소 해법 머리 맞대 \- 시정신문, [https\://www\.sijungnews.co.kr/news/articleView.html?idxno=1619](https://www.sijungnews.co.kr/news/articleView.html?idxno=1619)  
+> 68. KIPA 홍보 \| 한국행정연구원, [https\://www\.kipa.re.kr/html/kor/rscns/pbrl/rsrcNewsPbrlNele.do](https://www.kipa.re.kr/html/kor/rscns/pbrl/rsrcNewsPbrlNele.do)  
+> 69. AI 분야 규제합리화 로드맵 발표 \- 법무법인 화우, [https\://www\.hwawoo.com/kor/insights/newsletter/13430](https://www.hwawoo.com/kor/insights/newsletter/13430)  
+> 70. 공개자료실- 정보통신설비 유지보수‧관리 제도 \- 강화군청, [https\://www\.ganghwa.go.kr/open\_content/main/bbs/bbsMsgDetail.do?msg\_seq=6407\&keyword=%EB%AF%BC%EC%9B%90\&listsz=10\&bcd=opendata\&pgno=44](https://www.ganghwa.go.kr/open_content/main/bbs/bbsMsgDetail.do?msg_seq=6407&keyword=%EB%AF%BC%EC%9B%90&listsz=10&bcd=opendata&pgno=44)  
+> 71. 4차 산업혁명을 선도하는 '차세대 지방세정보시스템' 구축 추진, [https\://www\.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR\_000000000008\&nttId=67850](https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=67850)  
+> 72. \[차세대 지방세정보시스템\]13년만에 새 옷 입는 지방세시스템 \- 전자신문, [https\://m.etnews.com/20181219000142?obj=Tzo4OiJzdGRDbGFzcyI6Mjp7czo3OiJyZWZlcmVyIjtOO3M6NzoiZm9yd2FyZCI7czoxMzoid2ViIHRvIG1vYmlsZSI7fQ%3D%3D](https://m.etnews.com/20181219000142?obj=Tzo4OiJzdGRDbGFzcyI6Mjp7czo3OiJyZWZlcmVyIjtOO3M6NzoiZm9yd2FyZCI7czoxMzoid2ViIHRvIG1vYmlsZSI7fQ%3D%3D)  
+> 73. 지방세 신고·납부에도 AI 접목…'위택스' 13년 만에 바꾼다 \- 연합뉴스, [https\://www\.yna.co.kr/view/AKR20190829066800004](https://www.yna.co.kr/view/AKR20190829066800004)  
+> 74. 주 요 업 무 계 획 \- 지방의정포털, [https\://clik.nanet.go.kr/clikr-collection/bill/042004/9/2026/CLIKC9769943775258170\_1.pdf](https://clik.nanet.go.kr/clikr-collection/bill/042004/9/2026/CLIKC9769943775258170_1.pdf)  
+> 75. 목포시 주요업무 시행계획 \- 목포시청, [https\://www\.mokpo.go.kr/www/ybscript.io/common/file\_download/542940/615913/2026%20%EC%A3%BC%EC%9A%94%EC%97%85%EB%AC%B4%20%EC%8B%9C%ED%96%89%EA%B3%84%ED%9A%8D.pdf?pkey=37T3tXC5p](https://www.mokpo.go.kr/www/ybscript.io/common/file_download/542940/615913/2026%20%EC%A3%BC%EC%9A%94%EC%97%85%EB%AC%B4%20%EC%8B%9C%ED%96%89%EA%B3%84%ED%9A%8D.pdf?pkey=37T3tXC5p)  
+> 76. 옥천군 제7대 제230회 본회의 제3차 회의록 \- 옥천군의회, [https\://council.oc.go.kr/viewer/minutes/14810.do](https://council.oc.go.kr/viewer/minutes/14810.do)  
+> 77. 한국지방세연구회, [http\://www\.localtax.co.kr/vivaboard/content.asp?idx=265013\&uid=m\_7\&gotopage=43\&searcha=\&searchb=\&sgubun=\&b\_kind=1](http://www.localtax.co.kr/vivaboard/content.asp?idx=265013&uid=m_7&gotopage=43&searcha&searchb&sgubun&b_kind=1)  
+> 78. 자동차세 연납 신청 시기·공제율·방법 (1월 5% 공제, 양도 \- 루리의 줍줍, [https\://sungprofile.cloud/money/guide/car-tax-prepay/](https://sungprofile.cloud/money/guide/car-tax-prepay/)  
+> 79. \[국감\] 박정현 의원, 2024년 자동차세 체납액 4천 5백억 원... 체납자, [https\://www\.bokjibang.com/news/articleView.html?idxno=158220](https://www.bokjibang.com/news/articleView.html?idxno=158220)  
+> 80. 광주시, 차량 번호판 영치 등 체납액 징수 안간힘 \- 진일보 \- 전남일보, [https\://www\.jnilbo.com/news/articleView.html?idxno=71718014767](https://www.jnilbo.com/news/articleView.html?idxno=71718014767)  
+> 81. 문서뷰어, [https\://www\.goyang.go.kr/webViewer/getView.do?q\_fileSn=133285\&q\_fileId=0b056560-7c6b-44e1-aeea-22ef878073d6](https://www.goyang.go.kr/webViewer/getView.do?q_fileSn=133285&q_fileId=0b056560-7c6b-44e1-aeea-22ef878073d6)  
+> 82. 「2025년도 대한민국 지방재정대상」선정결과 공개, [https\://krila.re.kr/download\_casebook.php?idx=365](https://krila.re.kr/download_casebook.php?idx=365)  
+> 83. 제334회 재정복지위원회 제1차 \- 송파구의회, [https\://council.songpa.go.kr/cast/viewer/record.do?key=ed0cc5a897d230911c53b738a23ffc5df1fee627652af6f2d4b619bc65760a12d3afb6b48fa6db57](https://council.songpa.go.kr/cast/viewer/record.do?key=ed0cc5a897d230911c53b738a23ffc5df1fee627652af6f2d4b619bc65760a12d3afb6b48fa6db57)  
+> 84. 2024년 결정문 모음집.pdf, [https\://minwho.kr/data/bbsData/17567881211.pdf](https://minwho.kr/data/bbsData/17567881211.pdf)  
+> 85. 2025년 8월부터 전 국민 세무조사? 국세청 AI 세무조사의 진실과 대응법, [https\://taxly.kr/post/1447-2025%EB%85%84-8%EC%9B%94%EB%B6%80%ED%84%B0-%EC%A0%84-%EA%B5%AD%EB%AF%BC-%EC%84%B8%EB%AC%B4%EC%A1%B0%EC%82%AC-%EA%B5%AD%EC%84%B8%EC%B2%AD-AI-%EC%84%B8%EB%AC%B4%EC%A1%B0%EC%82%AC%EC%9D%98-%EC%A7%84%EC%8B%A4%EA%B3%BC-%EB%8C%80%EC%9D%91%EB%B2%95](https://taxly.kr/post/1447-2025%EB%85%84-8%EC%9B%94%EB%B6%80%ED%84%B0-%EC%A0%84-%EA%B5%AD%EB%AF%BC-%EC%84%B8%EB%AC%B4%EC%A1%B0%EC%82%AC-%EA%B5%AD%EC%84%B8%EC%B2%AD-AI-%EC%84%B8%EB%AC%B4%EC%A1%B0%EC%82%AC%EC%9D%98-%EC%A7%84%EC%8B%A4%EA%B3%BC-%EB%8C%80%EC%9D%91%EB%B2%95)  
+> 86. AI가 쏘아올린 국세청 세무조사 '대변혁' \- 한국세정신문, [https\://www\.taxtimes.co.kr/news/article.html?no=272122](https://www.taxtimes.co.kr/news/article.html?no=272122)  
+> 87. 국정감사결과 시정 및 처리 요구사항에 대한 처리결과보고서 \- 국세청, [https\://www\.nts.go.kr/comm/nttFileDownload.do?fileKey=d9f130f55db8ce7768b91c27ffced320](https://www.nts.go.kr/comm/nttFileDownload.do?fileKey=d9f130f55db8ce7768b91c27ffced320)  
+> 88. 2024년 국세행정 운영방안 중점 추진과제 \- 세무사신문, [https\://webzine.kacta.or.kr/news/articleView.html?idxno=21274](https://webzine.kacta.or.kr/news/articleView.html?idxno=21274)  
+> 89. 미국 IRS는 어떻게 세무조사 대상을 고를까｜DIF 점수와 조사대상, [https\://youngtax.tistory.com/207](https://youngtax.tistory.com/207)  
+> 90. 기획행정위원회회의록 \- 광명시의회, [https\://council.gm.go.kr/viewer/minutes.do?uid=41106\&mem\_sch=](https://council.gm.go.kr/viewer/minutes.do?uid=41106&mem_sch)  
+> 91. 제 279회 제 1차 행정자치위원회(2026.07.21 화요일), [https\://www\.namgucouncil.ulsan.kr/minutes/svc/web/cms/mnts/SvcMntsViewer.php?mode=spkr1\&schSn=4607\&spkrCd=MBR9030](https://www.namgucouncil.ulsan.kr/minutes/svc/web/cms/mnts/SvcMntsViewer.php?mode=spkr1&schSn=4607&spkrCd=MBR9030)  
+> 92. 2026년 정부혁신 실행계획 조 달 청 \- 소통24, [https\://modu.go.kr/commonfile/fileidDownLoad.do?file\_id=FILE\_000000000018609\_1](https://modu.go.kr/commonfile/fileidDownLoad.do?file_id=FILE_000000000018609_1)  
+> 93. 행정안전부 국정 주요성과 목록 (298개), [https\://mois.go.kr/frt/bbs/type002/commonSelectBoardArticle.do?bbsId=BBSMSTR\_000000000590\&nttId=124170](https://mois.go.kr/frt/bbs/type002/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000590&nttId=124170)
