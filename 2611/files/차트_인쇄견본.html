@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>차트 인쇄 견본</title>
+<!-- 인쇄용 차트 견본 v3(11-11) — 한글 보고서에 붙여 흑백으로 찍어도 읽히는 꼴. 강사가 규칙대로 그린 것(ChatGPT 산출물 아님).
+     형태 규칙은 화면용과 같다(공유뇌 ref/디자인지식: 적은데이터는-큰숫자로 · 도넛은-단일수치-강조에만 · 강조수치만-색으로(결론 한 줄 · 단위는 값 옆 · 회색도 수치는 읽히게) ·
+       차트-범례-지우고-직접-라벨(보고서는 눈금을 남긴다)). 인쇄라서 뺀 것: 그림자 · 다크 카드 · 움직임 · 말풍선.
+     v3: 맨 위 설정 줄 — 글씨 크기(작게 · 보통 · 크게) · 켜고 끄기(결론 · 단위 · 자료 · 값 숫자 · 눈금). 설정은 화면 · [그림 복사] · [PNG 내려받기]에 함께 반영된다(사용자 11-11).
+     한글 문서에 그림으로 붙이는 것이 기본이다 — 네이티브(엑셀 · 한글 차트 개체)를 고집하지 않는다(사용자 11-10).
+     데이터 = 재생에너지_설비_발전량_2022-2024.csv(광역 줄 · 우리 시 = 광주 + 전남) · 숫자는 강사 정답과 같다.
+     만든 사람: 최상훈 · choihunontop@gmail.com -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root{--ink:#000;--ink2:#404040;--accent:#2D629C;--gray:#A6A6A6;--track:#E3E3E3;--grid:#D9D9D9;--fs:1}
+*{box-sizing:border-box}
+body{margin:0;background:#fff;color:var(--ink);font-family:"맑은 고딕","Malgun Gothic",sans-serif}
+main{max-width:860px;margin:0 auto;padding:28px 16px 40px}
+h1{font-size:20px;margin:0 0 4px}
+.lead{color:var(--ink2);font-size:13px;margin:0 0 14px}
+.bar{position:sticky;top:0;z-index:5;display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center;background:#F4F5F7;border:1px solid #E1E3E8;border-radius:10px;padding:10px 14px;margin:0 0 28px;font-size:13px}
+.bar .g{display:flex;gap:4px;align-items:center}
+.bar .g b{font-weight:600;margin-right:4px;color:var(--ink2)}
+.bar button{font:inherit;border:1px solid #C9CDD4;background:#fff;border-radius:6px;padding:4px 10px;cursor:pointer}
+.bar button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.bar label{display:flex;gap:4px;align-items:center;cursor:pointer;white-space:nowrap}
+figure{margin:0 0 36px;break-inside:avoid}
+figcaption{text-align:center;font-weight:700;font-size:15px;margin-bottom:10px}
+.claim{font-weight:700;font-size:calc(14px * var(--fs));margin:0 0 2px}
+.unit{text-align:right;font-size:calc(12px * var(--fs));color:var(--ink2);margin-bottom:2px}
+.box{position:relative;height:360px}
+.box.g{height:260px}
+.box.n{height:150px}
+.src{font-size:calc(12px * var(--fs));color:var(--ink2);margin-top:4px}
+body.no-claim .claim,body.no-unit .unit,body.no-src .src{display:none}
+.dl,.cp{margin-top:8px;font:13px inherit;font-family:inherit;border:1px solid #bbb;background:#fff;padding:5px 12px;border-radius:6px;cursor:pointer}
+@media print{.dl,.cp,.lead,.bar{display:none}main{padding:0}}
+</style>
+</head>
+<body>
+<main>
+  <h1>재생에너지 차트 — 인쇄용 견본</h1>
+  <p class="lead">한글 보고서에 붙일 그림입니다. 위 설정 줄에서 글씨 크기와 넣을 것을 고른 뒤, [그림 복사]를 누르고 한글에서 Ctrl+V 하면 붙습니다. [PNG 내려받기]는 같은 그림을 파일로 받습니다. 그림 제목(&lt; 그림 1 &gt;)은 한글에서 붙입니다.</p>
+
+  <div class="bar" role="group" aria-label="그림 설정">
+    <div class="g"><b>글씨</b>
+      <button type="button" data-fs="0.85" aria-pressed="false">작게</button>
+      <button type="button" data-fs="1" aria-pressed="true">보통</button>
+      <button type="button" data-fs="1.25" aria-pressed="false">크게</button>
+    </div>
+    <div class="g"><b>넣을 것</b>
+      <label><input type="checkbox" data-opt="claim" checked>결론</label>
+      <label><input type="checkbox" data-opt="unit" checked>단위</label>
+      <label><input type="checkbox" data-opt="src" checked>자료</label>
+      <label><input type="checkbox" data-opt="values" checked>값 숫자</label>
+      <label><input type="checkbox" data-opt="grid" checked>눈금</label>
+    </div>
+  </div>
+
+  <figure>
+    <figcaption>&lt; 그림 1 &gt; 시·도별 재생에너지 설비용량(2024년)</figcaption>
+    <p class="claim">우리 시 설비는 시·도 가운데 가장 많음(7,666MW)</p>
+    <div class="unit">(단위: MW)</div>
+    <div class="box"><canvas id="c1"></canvas></div>
+    <div class="src">자료: 한국에너지공단 신 · 재생에너지 보급통계 · 우리 시 = 광주 + 전남</div>
+    <button class="cp">그림 복사</button> <button class="dl">PNG 내려받기</button>
+  </figure>
+
+  <figure>
+    <figcaption>&lt; 그림 2 &gt; 우리 시 에너지원별 설비 비중(2024년)</figcaption>
+    <p class="claim">설비의 91.2%가 태양광</p>
+    <div class="unit">(단위: %)</div>
+    <div class="box g"><canvas id="c2"></canvas></div>
+    <div class="src">자료: 한국에너지공단 신 · 재생에너지 보급통계</div>
+    <button class="cp">그림 복사</button> <button class="dl">PNG 내려받기</button>
+  </figure>
+
+  <figure>
+    <figcaption>&lt; 그림 3 &gt; 우리 시 재생에너지 설비용량 추이</figcaption>
+    <p class="claim">2년 사이 27.2% 늘어 7,666MW</p>
+    <div class="unit">(단위: MW)</div>
+    <div class="box n"><canvas id="c3"></canvas></div>
+    <div class="src">자료: 한국에너지공단 신 · 재생에너지 보급통계</div>
+    <button class="cp">그림 복사</button> <button class="dl">PNG 내려받기</button>
+  </figure>
+</main>
+<script>
+const S = getComputedStyle(document.documentElement), v = n => S.getPropertyValue(n).trim();
+const F = '"맑은 고딕","Malgun Gothic",sans-serif';
+const num = x => Number(x).toLocaleString('ko-KR');
+Chart.defaults.font.family = F;
+Chart.defaults.color = v('--ink');
+Chart.defaults.animation = false;
+Chart.defaults.devicePixelRatio = 3;
+Chart.defaults.plugins.legend.display = false;
+Chart.defaults.plugins.tooltip.enabled = false;
+
+// 설정 — 글씨 배율 · 켜고 끄기. 바꾸면 그림을 다시 그린다(화면 · 복사 · 내려받기가 같은 그림)
+const opt = {fs: 1, claim: true, unit: true, src: true, values: true, grid: true};
+const fz = n => Math.round(n * opt.fs);            // 그림 안 글씨 크기
+
+const bar = {"우리 시":7666,"전북":5755,"충남":5337,"경북":5048,"강원":3983,"경기":3577,"경남":3054,"충북":2500,"제주":1596,"인천":868,"대구":571,"부산":458,"서울":431,"울산":290,"대전":176,"세종":143};
+const lb = Object.keys(bar), us = i => lb[i] === '우리 시';
+
+// 그림 1 끝 값 — 값 숫자를 끄면 그리지 않는다
+const ends = {id: 'ends', afterDatasetsDraw(ch) {
+  if (!opt.values) return;
+  const x = ch.ctx, d = ch.data.datasets[0];
+  ch.getDatasetMeta(0).data.forEach((m, i) => { x.save(); x.textBaseline = 'middle'; x.fillStyle = v('--ink');
+    x.font = (us(i) ? 'bold ' : '') + fz(12) + 'px ' + F; x.fillText(num(d.data[i]), m.x + 5, m.y); x.restore(); });
+}};
+// 그림 2 가운데 큰 % · 그 밖 항목 줄(값 숫자를 끄면 그 밖 줄만 뺀다 — 가운데 %는 그림의 본체)
+const center = {id: 'center', afterDraw(ch) {
+  const {left, right, top, bottom} = ch.chartArea, cx = (left + right) / 2, cy = (top + bottom) / 2, x = ch.ctx;
+  x.save(); x.textBaseline = 'middle'; x.fillStyle = v('--accent');
+  x.font = 'bold ' + fz(40) + 'px ' + F; const w1 = x.measureText('91.2').width;
+  x.font = 'bold ' + fz(18) + 'px ' + F; const w2 = x.measureText('%').width;
+  const sx = cx - (w1 + 3 + w2) / 2;
+  x.textAlign = 'left'; x.font = 'bold ' + fz(40) + 'px ' + F; x.fillText('91.2', sx, cy - fz(8));
+  x.font = 'bold ' + fz(18) + 'px ' + F; x.fillText('%', sx + w1 + 3, cy - fz(2));
+  x.textAlign = 'center'; x.fillStyle = v('--ink2'); x.font = fz(13) + 'px ' + F; x.fillText('태양광', cx, cy + fz(26));
+  if (opt.values) { x.fillStyle = v('--ink'); x.font = fz(12) + 'px ' + F;
+    x.fillText('그 밖: 풍력 6.0 · 연료전지 1.2 · 폐기물 0.7 · 수력 0.5 · 바이오 0.4', cx, ch.height - 10); }
+  x.restore();
+}};
+// 그림 3 큰 숫자 — 숫자 자체가 그림이라 값 숫자 끄기와 상관없이 그린다
+const nums = {id: 'nums', afterDraw(ch) {
+  const x = ch.ctx, W = ch.width, H = ch.height, cy = H / 2;   // ch.width · ch.height는 이미 CSS 픽셀
+  const items = [['2022년', '6,025', false], ['2023년', '7,031', false], ['2024년', '7,666', true]];
+  const xs = [W * .14, W * .38, W * .7];
+  x.save(); x.textAlign = 'center';
+  items.forEach(([y, n, last], i) => {
+    x.fillStyle = v('--ink2'); x.font = fz(13) + 'px ' + F; x.fillText(y, xs[i], cy - fz(last ? 42 : 30));
+    x.fillStyle = last ? v('--accent') : v('--ink'); x.font = (last ? 'bold ' + fz(44) : fz(24)) + 'px ' + F; x.fillText(n, xs[i], cy + fz(last ? 14 : 8));
+    if (i < 2) { x.fillStyle = v('--gray'); x.font = fz(22) + 'px ' + F; x.fillText('→', (xs[i] + xs[i + 1]) / 2 + (i ? 14 : 0), cy + 4); }
+  });
+  x.fillStyle = v('--ink'); x.font = 'bold ' + fz(15) + 'px ' + F; x.fillText('▲ 27.2%(2022년 대비)', xs[2], cy + fz(46));
+  x.restore();
+}};
+
+const charts = {};
+function draw() {
+  Object.values(charts).forEach(c => c.destroy());
+  Chart.defaults.font.size = fz(13);
+  charts.c1 = new Chart(c1, {type: 'bar', plugins: [ends],
+    data: {labels: lb, datasets: [{data: Object.values(bar), backgroundColor: lb.map((k, i) => us(i) ? v('--accent') : v('--gray')), barPercentage: .7}]},
+    options: {indexAxis: 'y', maintainAspectRatio: false, layout: {padding: {right: opt.values ? fz(46) : 8}},
+      scales: {x: {display: opt.grid, grid: {color: v('--grid')}, border: {display: false}, ticks: {color: v('--ink2'), callback: num, font: {size: fz(12)}}},
+               y: {grid: {display: false}, border: {color: v('--ink')}, ticks: {color: v('--ink'), font: c => ({size: fz(13), weight: us(c.index) ? 'bold' : 'normal'})}}}}});
+  charts.c2 = new Chart(c2, {type: 'doughnut', plugins: [center],
+    data: {labels: ['태양광', '그 밖'], datasets: [{data: [91.2, 8.8], backgroundColor: [v('--accent'), v('--track')], borderWidth: 0}]},
+    options: {maintainAspectRatio: false, cutout: '80%', layout: {padding: {bottom: opt.values ? fz(30) : 6}}}});
+  charts.c3 = new Chart(c3, {type: 'bar', plugins: [nums], data: {labels: [], datasets: [{data: []}]},
+    options: {maintainAspectRatio: false, scales: {x: {display: false}, y: {display: false}}}});
+}
+draw();
+
+document.querySelector('.bar').addEventListener('click', e => {
+  const b = e.target.closest('button[data-fs]'); if (!b) return;
+  opt.fs = +b.dataset.fs; document.documentElement.style.setProperty('--fs', opt.fs);
+  document.querySelectorAll('.bar button[data-fs]').forEach(x => x.setAttribute('aria-pressed', x === b));
+  draw();
+});
+document.querySelector('.bar').addEventListener('change', e => {
+  const k = e.target.dataset.opt; if (!k) return;
+  opt[k] = e.target.checked; document.body.classList.toggle('no-' + k, !opt[k]);
+  draw();
+});
+
+// 그림 한 장 만들기 — 흰 바탕에 (켠 것만) 결론 · (단위) · 그림 · 자료 줄
+function figure(fig) {
+  const src = fig.querySelector('canvas'), k = src.width / src.clientWidth;
+  const hc = opt.claim ? 26 : 0, hu = opt.unit ? 22 : 0, hs = opt.src ? 30 : 0;
+  const top = (hc + hu + (hc || hu ? 4 : 0)) * k, bottom = hs * k;
+  const out = document.createElement('canvas'); out.width = src.width; out.height = src.height + top + bottom;
+  const x = out.getContext('2d');
+  x.fillStyle = '#fff'; x.fillRect(0, 0, out.width, out.height); x.textBaseline = 'middle';
+  if (opt.claim) { x.fillStyle = v('--ink'); x.font = `bold ${fz(14) * k}px ${F}`; x.textAlign = 'left'; x.fillText(fig.querySelector('.claim').textContent, 2, (hc / 2) * k); }
+  if (opt.unit) { x.fillStyle = v('--ink2'); x.font = `${fz(12) * k}px ${F}`; x.textAlign = 'right'; x.fillText(fig.querySelector('.unit').textContent, out.width - 2, (hc + hu / 2) * k); }
+  x.drawImage(src, 0, top);
+  if (opt.src) { x.fillStyle = v('--ink2'); x.font = `${fz(12) * k}px ${F}`; x.textAlign = 'left'; x.fillText(fig.querySelector('.src').textContent, 2, top + src.height + bottom / 2); }
+  return out;
+}
+function say(b, t) { const o = b.textContent; b.textContent = t; setTimeout(() => b.textContent = o, 1800); }
+
+document.addEventListener('click', e => {
+  const b = e.target.closest('.dl, .cp'); if (!b) return;
+  const fig = b.closest('figure'), out = figure(fig);
+  if (b.classList.contains('dl')) {            // [PNG 내려받기]
+    const a = document.createElement('a');
+    a.download = fig.querySelector('figcaption').textContent.replace(/[<>\s]+/g, ' ').trim() + '.png';
+    a.href = out.toDataURL('image/png'); a.click(); return;
+  }
+  // [그림 복사] — 클립보드에 그림을 넣는다 → 한글에서 Ctrl+V. 막힌 브라우저 · 주소면 PNG 내려받기로
+  if (!navigator.clipboard || !window.ClipboardItem) { say(b, '복사가 막혀 있습니다 · PNG 내려받기를 쓰세요'); return; }
+  const blob = new Promise(r => out.toBlob(r, 'image/png'));   // 누른 그 순간에 쓰기를 시작해야 브라우저가 막지 않는다
+  navigator.clipboard.write([new ClipboardItem({'image/png': blob})])
+    .then(() => say(b, '복사했습니다 · 한글에서 Ctrl+V'))
+    .catch(() => say(b, '복사가 막혀 있습니다 · PNG 내려받기를 쓰세요'));
+});
+</script>
+</body>
+</html>
